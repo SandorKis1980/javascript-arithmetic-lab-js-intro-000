@@ -11,5 +11,5 @@ function miltiply(a, b) {
 }
 
 function divide (a, b) {
-  rturn a/b;
+  return a/b;
 }
